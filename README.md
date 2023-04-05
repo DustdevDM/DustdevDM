@@ -19,3 +19,7 @@ Greetings! I'm Dustin Meyer and I'm currently apprenticing as an IT specialist f
 
 <img alt="angular" src="media/icons/angular.svg" height="30" /> &nbsp;&nbsp;
 <img alt="react" src="media/icons/react.svg" height="30" /> &nbsp;&nbsp;
+
+**Connect with me:**
+
+<img alt="linkedin" src="media/icons/linkedin.svg" height="30" href="linkedin.com/in/dustindm" /> &nbsp;&nbsp;
