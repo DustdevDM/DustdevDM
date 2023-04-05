@@ -9,7 +9,7 @@ Greetings! I'm Dustin Meyer and I'm currently apprenticing as an IT specialist f
 <img alt="JS" src="media/icons/JS.svg" height="30" /> &nbsp;&nbsp;
 <img alt="TS" src="media/icons/TS.svg" height="30" /> &nbsp;&nbsp;
 <img alt="node" src="media/icons/nodejs.svg" height="30" /> &nbsp;&nbsp;
-<img alt="C#" src="media/icons/Csharp.svg" height="30" /> &nbsp;&nbsp;
+<img alt="C#" src="media/icons/csharp.svg" height="30" /> &nbsp;&nbsp;
 <img alt="dotnet" src="media/icons/dotnet.svg" height="30" /> &nbsp;&nbsp;
 <img alt="mongodb" src="media/icons/mongodb.svg" height="30" /> &nbsp;&nbsp;
 <img alt="docker" src="media/icons/docker.svg" height="30" /> &nbsp;&nbsp;
