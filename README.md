@@ -22,4 +22,4 @@ Greetings! I'm Dustin Meyer and I'm currently apprenticing as an IT specialist f
 
 **Connect with me:**
 
-<img alt="linkedin" src="media/icons/linkedin.svg" height="30" href="linkedin.com/in/dustindm" /> &nbsp;&nbsp;
+<a href="linkedin.com/in/dustindm"><img alt="linkedin" src="media/icons/linkedin.svg" height="30" /> &nbsp;&nbsp;</a>
