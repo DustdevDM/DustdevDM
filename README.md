@@ -25,3 +25,11 @@ Greetings! I'm Dustin Meyer and I'm currently apprenticing as an IT specialist f
 <a href="https://linkedin.com/in/dustindm"><img alt="linkedin" src="media/icons/linkedin.svg" height="30" /> &nbsp;&nbsp;</a>
 <a href="https://discordapp.com/users/330380702505762817"><img alt="discord" src="media/icons/discord.svg" height="30" /> &nbsp;&nbsp;</a>
 <a href="mailto:public@dustin-dm.de"><img alt="discord" src="media/icons/mail.png" height="30" /> &nbsp;&nbsp;</a>
+
+
+![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dustdevdm&show_icons=true&theme=dark#gh-dark-mode-only)
+![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=dustdevdm&show_icons=true&theme=default#gh-light-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dustdevdm&theme=dark&layout=compact#gh-dark-mode-only)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dustdevdm&theme=default&layout=compact#gh-dark-mode-only#gh-light-mode-only)
