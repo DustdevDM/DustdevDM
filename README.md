@@ -10,8 +10,14 @@ Greetings! I'm Dustin Meyer and I'm currently apprenticing as an IT specialist f
 <a href="https://discordapp.com/users/330380702505762817"><img alt="discord" src="media/icons/discord.svg" height="30" /> &nbsp;&nbsp;</a>
 <a href="mailto:public@dustin-dm.de"><img alt="discord" src="media/icons/mail.png" height="30" /> &nbsp;&nbsp;</a>
 ---
-[![Dustins Stats](https://github-readme-stats.vercel.app/api?username=dustdevdm&show_icons=true&theme=transparent&hide=stars)](#)
-
-[![Dustins top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dustdevdm&theme=transparent&layout=compact)](#)
-
-[![Dustins Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dustdev&theme=transparent&layout=compact)](https://wakatime.com/@dustdev)
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dustdevdm&show_icons=true&theme=transparent&hide=stars" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dustdevdm&theme=transparent&layout=compact" />
+</a>
+<br/>
+<br/>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dustdev&theme=transparent&layout=compact" />
+</a>
